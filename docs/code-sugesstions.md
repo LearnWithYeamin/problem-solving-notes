@@ -4,13 +4,13 @@
 
 ---
 
-## ✅ Step 1: লেটেস্ট Arduino IDE ইনস্টল করুন
+## ✅ Step 1: Latest Arduino IDE ইনস্টল করুন
 
-আপনার পিসিতে অবশ্যই লেটেস্ট version এর Arduino IDE ইনস্টল থাকতে হবে।
+আপনার পিসিতে অবশ্যই Latest version এর Arduino IDE ইনস্টল থাকতে হবে।
 
 অনেক সময় পুরাতন version ব্যবহারের কারণে কোড সাজেশন কাজ করে না।
 
-🔗 [Arduino IDE Download লিংক](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
+🔗 [Latest Arduino IDE Download লিংক](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
 
 ---
 
@@ -41,4 +41,3 @@
 
 ---
 
-🔄 [Back to Home](README.md)
